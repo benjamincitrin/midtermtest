@@ -1,0 +1,39 @@
+/* CSS designed by  Benjamin Citrin */
+/*****************     main layout section             ************************/
+
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+
+/*****************     header section             *****************************/
+header{
+    border-color: black;
+}
+/*****************     navigation section         *****************************/
+nav ol li{
+    list-style-type: lower-greek;
+    text-align: left;
+}
+
+nav div{
+    text-align: center;
+    padding-left: 35em;
+    background-color: white;
+}
+
+/*****************     data section             ****************************/
+div {
+    text-align: center;
+    padding-left:35em;
+}
+
+/*****************     aside section              *****************************/
+
+
+
+/*****************     footer section              ****************************/
+footer{
+    clear: both;
+    background-color: white;
+}
